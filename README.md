@@ -1,4 +1,4 @@
-# 🎎 Happy - Faça uma visita algum orfanato
+# 🎎 Happy - Faça uma visita a um orfanato
 
 <p>Esse projeto foi desenvolvido na semana next level da rockseat, onde tive a felicidade de aprender novos conhecimentos nos quesitos que mais desejei.
 </p>
