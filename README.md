@@ -5,7 +5,7 @@
 
 # 🔎 Sobre Happy
 
-<p>Trata-se de uma aplicação web, que disponibiliza por meio do mapa a localizações e disponibilidade de orfanatos próximos.</p>
+<p>Trata-se de uma aplicação web, que disponibiliza por meio do mapa as localizações e disponibilidades de orfanatos próximos.</p>
 <p align="center"><img src="./imagens/telaInicial.PNG" ></p>
 
 # ⚔ Tecnologias
