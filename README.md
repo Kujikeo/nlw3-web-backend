@@ -10,7 +10,7 @@
 
 # ⚔ Tecnologias
 
-O projeto fez uso das seguintes tecnlogias:
+O projeto fez uso das seguintes tecnologias:
 
 - [React JS](https://pt-br.reactjs.org/)
 - [Node.js](https://nodejs.org/en/)
