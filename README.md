@@ -17,7 +17,7 @@ O projeto fez uso das seguintes tecnologias:
 - [JavaScript](https://www.javascript.com/)
 - [TypeORM](https://typeorm.io/#/)
 - [SQLITE](https://www.sqlite.org/index.html)
-- [TYPSCRIPT](https://www.typescriptlang.org/l)
+- [TYPESCRIPT](https://www.typescriptlang.org/l)
 
 # Pré-requisitos
 
